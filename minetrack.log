@@ -1,0 +1,145 @@
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:29:10.769Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2021-11-29T13:29:10.792Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:30:52.972Z"}
+{"level":"info","message":"Started on 0.0.0.0:5500","timestamp":"2021-11-29T13:30:52.999Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:33:45.243Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2021-11-29T13:33:45.267Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:34:36.212Z"}
+{"level":"info","message":"Started on 127.0.0.1:5500","timestamp":"2021-11-29T13:34:36.235Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:34:41.351Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:34:41.412Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:34:41.415Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:34:41.470Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:34:41.484Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:34:41.492Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.26d3d291.ttf","timestamp":"2021-11-29T13:34:41.494Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:36:04.747Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:36:04.753Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:36:04.785Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:36:04.787Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:36:04.790Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:36:04.812Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:36:04.840Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:36:05.374Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:36:05.380Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:36:05.403Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:36:05.404Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:36:05.416Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:36:05.446Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:36:05.458Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:36:46.379Z"}
+{"level":"info","message":"Started on 127.0.0.1:5500","timestamp":"2021-11-29T13:36:46.402Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:36:49.713Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:36:49.780Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:36:49.783Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:36:49.792Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:36:49.816Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:36:49.862Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:37:06.185Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:37:06.188Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:37:06.211Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:37:06.213Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:37:06.223Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:37:06.254Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:37:06.269Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:37:32.964Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:37:32.973Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:37:33.018Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:37:33.021Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:37:33.022Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:37:33.050Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:37:33.069Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:38:05.370Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:38:05.376Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:38:05.411Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:38:05.413Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:38:05.415Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:38:05.443Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:38:05.455Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:38:11.573Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:38:11.583Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:38:11.635Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:38:11.638Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:38:11.639Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:38:11.693Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:38:11.714Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:39:29.810Z"}
+{"level":"info","message":"Started on 127.0.0.1:5500","timestamp":"2021-11-29T13:39:29.834Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:39:32.080Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:39:32.126Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:39:32.128Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:39:32.133Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:39:32.161Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:39:32.184Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:40:36.147Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:40:36.155Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:40:36.200Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:40:36.202Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:40:36.205Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:40:36.233Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:40:36.259Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:40:57.325Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:40:57.333Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:40:57.370Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:40:57.371Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:40:57.374Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:40:57.398Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:40:57.419Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:41:07.539Z"}
+{"level":"info","message":"Started on 127.0.0.1:5500","timestamp":"2021-11-29T13:41:07.563Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:41:07.620Z"}
+{"level":"info","message":"127.0.0.1 requested: /missing_favicon.7828699d.svg","timestamp":"2021-11-29T13:41:07.628Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:41:11.545Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:41:11.549Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:41:11.572Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:41:11.573Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:41:11.590Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:41:11.620Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:41:11.634Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:47:35.295Z"}
+{"level":"info","message":"Started on 127.0.0.1:8080","timestamp":"2021-11-29T13:47:35.326Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:47:40.406Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:47:40.451Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:47:40.454Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:47:40.738Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:47:40.752Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:47:40.758Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.26d3d291.ttf","timestamp":"2021-11-29T13:47:40.763Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_9ac5a371bf9e3fa202c37919b00667d1.png","timestamp":"2021-11-29T13:47:40.772Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:52:33.803Z"}
+{"level":"info","message":"Started on 127.0.0.1:8080","timestamp":"2021-11-29T13:52:33.826Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:52:35.381Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:52:35.403Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:52:35.405Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:52:35.418Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:52:35.448Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:52:35.462Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:54:09.237Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:54:09.246Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:54:09.281Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:54:09.286Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:54:09.299Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:54:09.343Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:54:09.356Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:56:18.270Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:56:18.275Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:56:18.331Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:56:18.332Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:56:18.348Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:56:18.380Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:56:18.389Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2021-11-29T13:56:23.356Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:56:23.365Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:56:23.421Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:56:23.422Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:56:23.427Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:56:23.445Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:56:23.467Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2021-11-29T13:56:45.443Z"}
+{"level":"info","message":"Started on 127.0.0.1:8080","timestamp":"2021-11-29T13:56:45.466Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2021-11-29T13:56:47.038Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.00479cc6.css","timestamp":"2021-11-29T13:56:47.093Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.765b6c10.js","timestamp":"2021-11-29T13:56:47.097Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.0ec09203.svg","timestamp":"2021-11-29T13:56:47.098Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2021-11-29T13:56:47.129Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_4880f47042ce29db1383f70225eeff5b.png","timestamp":"2021-11-29T13:56:47.147Z"}
