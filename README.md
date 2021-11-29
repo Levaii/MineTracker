@@ -5,9 +5,6 @@
 # Minetrack
 Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simple and hackable, Minetrack easily runs on any hardware. Use it for monitoring, analytics, or just for fun. [Check it out](https://minetrack.me).
 
-### This project is not actively supported!
-This project is not actively supported. Pull requests will be reviewed and merged (if accepted), but issues _might_ not be addressed outside of fixes provided by community members. Please share any improvements or fixes you've made so everyone can benefit from them.
-
 ### Features
 - 🚀 Real time Minecraft server player count tracking with customizable update speed.
 - 📝 Historical player count logging with 24 hour peak and player count record tracking.
@@ -15,30 +12,6 @@ This project is not actively supported. Pull requests will be reviewed and merge
 - 📦 Out of the box included dashboard with various customizable sorting and viewing options.
 - 📱(Decent) mobile support.
 - 🕹 Supports both Minecraft Java Edition and Minecraft Bedrock Edition.
-
-### Community Showcase
-You can find a list of community hosted instances below. Want to be listed here? Add yourself in a pull request!
-
-* https://minetrack.me
-* https://bedrock.minetrack.me
-* https://pings.minetrics.com/
-* https://track.read-my-man.ga
-* https://track.give-you-up.ga
-* https://trackedservers.com
-* https://stats.idotek.fr
-* https://skyblock.idotek.fr
-* https://survie.idotek.fr
-* https://minijeux.idotek.fr
-* https://stats.telfrancesco.it
-* https://suomimine.fi
-* https://minecraft-stats.de
-* https://minetrack.geyserconnect.net
-* https://track.rmly.dev
-
-## Updates
-For updates and release notes, please read the [CHANGELOG](docs/CHANGELOG.md).
-
-**Migrating to Minetrack 5?** See the [migration guide](docs/MIGRATING.md).
 
 ## Installation
 1. Node 12.4.0+ is required (you can check your version using `node -v`)
